@@ -1,0 +1,25 @@
+{
+  "name": "v-event-outside",
+  "version": "0.1.0",
+  "description": "Vue directive for handling events outside an element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloprogh/v-event-outside.git"
+  },
+  "keywords": [
+    "vue",
+    "directive",
+    "events",
+    "outside"
+  ],
+  "author": "sujinqu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helloprogh/v-event-outside/issues"
+  },
+  "homepage": "https://github.com/helloprogh/v-event-outside#readme"
+}
